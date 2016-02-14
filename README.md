@@ -7,8 +7,8 @@ Content Management Systems (CMS) are increasingly popular web application platfo
 
 Paulo Filipe, André Ribeiro, Alberto Rodrigues da Silva, [XIS-CMS: Towards a Model-Driven Approach for Developing Platform-Independent CMS-Specific Modules] (http://isg.inesc-id.pt/alb/static/papers/2016/c135-pf-XIS-CMS.pdf), in Proceedings of MODELSWARD’2016, February 2016, SCITEPRESS.
 
-André Ribeiro, Alberto Rodrigues da Silva, [XIS-Mobile: A DSL for Mobile Applications] (http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf), in Proceedings of ACM SAC’2014 Conference, 2014, ACM.  
+André Ribeiro, Alberto Rodrigues da Silva, [XIS-Mobile: A DSL for Mobile Applications] (http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf), in Proceedings of ACM SAC’2014 Conference, March 2014, ACM.  
 
-Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, [XIS – UML Profile for eXtreme Modeling Interactive Systems] (http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf), in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, 2007, IEEE Computer Society. 
+Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, [XIS – UML Profile for eXtreme Modeling Interactive Systems] (http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf), in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, March 2007, IEEE Computer Society. 
 
 **© 2014-2016 Paulo Nunes Filipe, André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
